@@ -1,0 +1,1 @@
+export TF_VAR_config_file_profile="${OCI_CLI_PROFILE}"

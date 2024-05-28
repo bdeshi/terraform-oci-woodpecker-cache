@@ -1,0 +1,9 @@
+#vim:ft=hcl
+oci_region       = "uk-london-1"
+remote_state_type = "remote"
+remote_state_config = {
+    organization = "***"
+    workspaces = {
+        name = "***"
+    }
+}
